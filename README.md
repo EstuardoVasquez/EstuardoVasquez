@@ -74,15 +74,6 @@ Estudio de desarrollo y diseño en Quetzaltenango. Lo que hacemos:
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstuardoVasquez&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D6E4&icon_color=2FA48F" alt="Lenguajes más usados" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstuardoVasquez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D6E4&icon_color=2FA48F" alt="Estadísticas de GitHub" height="165">
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
 ## 📬 Hablemos
 
 ¿Tienes una idea, un sistema que se quedó a medias o una marca que necesita verse mejor? Escríbeme.
